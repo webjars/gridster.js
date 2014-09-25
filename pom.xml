@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>gridster.js</artifactId>
-    <version>0.5.6-SNAPSHOT</version>
+    <version>0.5.6</version>
     <name>Gridster.js</name>
     <description>WebJar for Gridster.js</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/gridster.js</url>
         <connection>scm:git:https://github.com/webjars/gridster.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/gridster.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>gridster.js-0.5.6</tag>
     </scm>
     
     <properties>
